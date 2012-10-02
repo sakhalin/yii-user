@@ -1,15 +1,11 @@
 Yii-User Installation
 =====================
-
-Download
---------
-
-Download or checkout (SVN/Git) from http://yii-user.2mx.org and unpack files in your protected/modules/user
+Fork clone git git@github.com:mishamx/yii-user.git
 
 Git clone
 ---------
 
-    clone git git@github.com:mishamx/yii-user.git
+    git clone git@github.com:sakhalin/yii-user.git
 
 Configure
 ---------
